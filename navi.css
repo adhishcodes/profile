@@ -1,0 +1,36 @@
+
+  body {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: "Roboto";
+    color: purple;
+    background-color: plum;
+    
+
+  }
+  #login-container {
+    background-color: VIOLET;
+    color: PURPLE;
+
+    height: 390px;
+    width: 350px;
+    padding: 20px;
+    border-radius: 5px;
+    background: $background;
+    position: relative;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+    
+    }
+    h1 {
+      font-family: 'Sriracha';
+      text-align: center;
+      margin-bottom: 20px;
+      
+    }
+    .description{
+      margin-bottom: 20px;
+    }
+    .
