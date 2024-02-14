@@ -5,15 +5,15 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
-    font-family: "Roboto";
-    color: purple;
-    background-color: plum;
+    font-family: "courier";
+    color: white;
+    background-color: black;
     
 
   }
   #login-container {
-    background-color: VIOLET;
-    color: PURPLE;
+    background-color: white;
+    color: black;
 
     height: 390px;
     width: 350px;
@@ -25,7 +25,7 @@
     
     }
     h1 {
-      font-family: 'Sriracha';
+      font-family: 'verdana';
       text-align: center;
       margin-bottom: 20px;
       
